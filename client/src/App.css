@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display : flex;
+  flex-direction : column;
+  justify-content: center;
+  align-items: center;
+  margin:20px;
+}
+
+input , button {
+  width:200px;
+  height:30px;
+  font-size: 20px;
+  margin:10px;
+}
+.box{
+  border-style:solid;
+  padding:20px;
+  margin:20px;
+  width:500px;
+}
